@@ -1,0 +1,53 @@
+{
+    "recipes": [
+        {
+            "id": 1,
+            "name": "Mediterranean Quinoa Bowl",
+            "ingredients": [
+                { "name": "quinoa", "amount": "200g" },
+                { "name": "cucumber", "amount": "1 medium" },
+                { "name": "tomatoes", "amount": "2 medium" },
+                { "name": "red onion", "amount": "1/2" },
+                { "name": "olive oil", "amount": "2 tbsp" },
+                { "name": "lemon", "amount": "1" },
+                { "name": "feta cheese", "amount": "100g" }
+            ],
+            "instructions": [
+                "Cook quinoa according to package instructions",
+                "Dice vegetables",
+                "Mix all ingredients",
+                "Drizzle with olive oil and lemon juice"
+            ],
+            "category": [
+                "vegetarian",
+                "gluten-free"
+            ],
+            "prepTime": "20 mins"
+        },
+        {
+            "id": 2,
+            "name": "Chickpea Curry",
+            "ingredients": [
+                { "name": "chickpeas", "amount": "400g can" },
+                { "name": "coconut milk", "amount": "400ml can" },
+                { "name": "onion", "amount": "1 large" },
+                { "name": "garlic", "amount": "3 cloves" },
+                { "name": "curry powder", "amount": "2 tbsp" },
+                { "name": "tomatoes", "amount": "2 large" },
+                { "name": "rice", "amount": "200g" }
+            ],
+            "instructions": [
+                "Sauté onion and garlic",
+                "Add curry powder and tomatoes",
+                "Add chickpeas and coconut milk",
+                "Simmer for 15 minutes",
+                "Serve with rice"
+            ],
+            "category": [
+                "vegan",
+                "gluten-free"
+            ],
+            "prepTime": "30 mins"
+        }
+    ]
+}
